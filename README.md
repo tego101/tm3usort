@@ -17,6 +17,6 @@
 #  How-To use?
  * Place on desktop open PowerShell or Terminal and navigate to the TM3USORT folder on your desktop and run the following command:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-===> python3 TM3USORT.py
+ python3 TM3USORT.py
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  * Enjoy!
