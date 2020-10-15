@@ -6,5 +6,5 @@
 => ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 =>   bitcoin -> 1KouUcQ7o4rVh8gTg6W3HPUDsBBdoC6G1K
 =>  CASHAPP -> REDTVME
-=> ALL DONATIONS WILL BE USED FOR SUSHI & .. SUSHI 
-=> A Quick tool to sort out elements in a m3u file.
+=>  ALL DONATIONS WILL BE USED FOR SUSHI & .. SUSHI 
+=> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
