@@ -17,6 +17,19 @@ So for example if you need all your movies for (2020) you can type.
  What Year or Title?  (2020)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 and TM3U SORT will return all entries that have (2020) in them.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#EXTM3U
+#EXTINF:-1 tvg-logo="" tvg-id="",Movie Name (2020)
+http://www.domain.com:24561/live/user/password/64525
+#EXTINF:-1 tvg-logo="" tvg-id="",Movie Name (2020)
+http://www.domain.com:24561/live/user/password/64526
+#EXTINF:-1 tvg-logo="" tvg-id="",Movie Name (2020)
+http://www.domain.com:24561/live/user/password/64527
+#EXTINF:-1 tvg-logo="" tvg-id="",Movie Name (2020)
+http://www.domain.com:24561/live/user/password/64528
+#EXTINF:-1 tvg-logo="" tvg-id="",Movie Name (2020)
+http://www.domain.com:24561/live/user/password/64529
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Requirements
  * Python3
  
