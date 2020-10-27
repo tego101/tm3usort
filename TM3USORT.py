@@ -126,23 +126,23 @@ class TM3U:
                 save = input(' Save to file? Yes or No: \n ')
                 print('\n')
                 #   Save the file?
-                if 'yes' in save:
+                if save == 'YES' or save == 'Yes' or save == 'yes':
                     #   Name the file.
                     file_name = input(' What should we name the file? \n   ')
 
                     new_list = open('saved/' + file_name + '.m3u','w+')
                     new_list.write("#EXTM3U \n")
-                    
+
                     with open(r_file) as input_file:
                         content_generator = (line for line in input_file.read().splitlines())
-                        
+
                         for line in content_generator:
                             if r_year_title in line:
                                 next_line = next(content_generator)
                                 new_list.write(line + '\n')
                                 new_list.write(next_line + '\n')
 
-                            
+
 
                         #   Process complete!!!
                         print(' \n Operation Complete!!! file saved as ' + file_name + '.m3u in the SAVED folder! \n')
@@ -156,7 +156,7 @@ class TM3U:
                             print('\n OK! \n')
                             print('########################')
                             TM3U.outro()
-                        
+
                 elif save == 'NO' or save == 'No' or save == 'no':
                         print('OK!')
 
