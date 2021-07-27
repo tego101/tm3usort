@@ -4,7 +4,9 @@ A Quick tool to sort out elements in a m3u file.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   http://github.com/tego101/tm3usort
 => ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#   BITCOIN -> 1KouUcQ7o4rVh8gTg6W3HPUDsBBdoC6G1K
+#   bitcoincash: —> qqz0ry3r7dnmm8rwllvx46ds7zf5srw3pqqgnx7x75
+#   bitcoin: —> 1T96QVRwhKRmtTgk2JPtTzNpdhyKES3Kv
+#   bitcoin: —> 39PgeaQUHtEqNiVQTKp1JcPMmWrwfo6DJf
 #   CASHAPP -> REDTVME
 => ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   ALL DONATIONS WILL BE USED FOR SUSHI & .. SUSHI 
