@@ -35,9 +35,10 @@ http://www.domain.com:24561/live/user/password/64529
 # Requirements
  * Python3
  
+![This is an image](https://i.ibb.co/yR7wKRQ/tm3usort.gif)
+
 #  How-To use?
  * Place on desktop open PowerShell or Terminal and navigate to the TM3USORT folder on your desktop and run the following command:
- ![This is an image](https://i.ibb.co/yR7wKRQ/tm3usort.gif)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  python3 m3usort.py
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
