@@ -38,6 +38,6 @@ http://www.domain.com:24561/live/user/password/64529
 #  How-To use?
  * Place on desktop open PowerShell or Terminal and navigate to the TM3USORT folder on your desktop and run the following command:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- python3 TM3USORT.py
+ python3 m3usort.py
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  * Enjoy!
